@@ -1,0 +1,16 @@
+main() {
+	int a, b, d, x, y;
+	float c;
+	x = 0;
+	if(a > b){
+		if(b > d){
+			x++;
+		}
+	}
+	else{
+		y++;
+	}
+	while(x < 10){
+		a++;
+	}
+}
